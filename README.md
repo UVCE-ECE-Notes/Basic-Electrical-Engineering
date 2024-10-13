@@ -1,6 +1,6 @@
 #  **Basic-Electrical-Engineering**
 1. Unit 1:
-   Click [here](https://www.youtube.com/playlist?list=PLPIwNooIb9vjC5Hz7xIUXJw54LkB2MG2i) for Unit 1 theory & Notes refer this playlist.
+   Click [here](https://www.youtube.com/playlist?list=PLPIwNooIb9vjC5Hz7xIUXJw54LkB2MG2i) for Unit 1 theory.
 2. Unit 2:
    2 Wattmeter Method is a very imp topic, click [here](https://youtu.be/0BMU1qLzFhg?si=Tnw_zAw8GYUdtuP-) for reference
 3. Unit 3:
